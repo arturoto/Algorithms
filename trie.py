@@ -50,6 +50,8 @@ class Trie:
 
 if __name__ == '__main__':
 
+	p ass
+
 
 
 
