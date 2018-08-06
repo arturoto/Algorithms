@@ -9,4 +9,11 @@ class Node():
 
 
 class LinkedList():
-	pass
+
+
+	def __init__(self):
+		self.head = None
+		self.size = 0
+
+
+	def insert_start(())
